@@ -3,7 +3,7 @@
 - 🌱 I'm currently learning how to create websites
 - 💞️ I'd love to collaborate on ...
 - 📫 You can contact me via Instagram @0x_adistudy
-- 😄 Pronouns: adot
+- 😄 Pronouns: adi
 - ⚡ Fun fact: ...
 
 <!---
